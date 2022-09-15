@@ -1,5 +1,5 @@
 name: Pedestrian
-version: 0.1.0
+version: 0.1.1
 id: reearth-plugin-pedestrian
 extensions:
   - id: pedestrian
@@ -7,8 +7,8 @@ extensions:
     name: Pedestrian
     schema:
       groups:
-        - id: default
-          title: Pedestrian
+        - id: customize
+          title: Customize
           fields:
             - id: theme
               type: string
@@ -25,8 +25,4 @@ extensions:
             - id: primaryColor
               type: string
               title: Primary Color
-              ui: color
-            - id: secondaryColor
-              type: string
-              title: Secondary Color
               ui: color
