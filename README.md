@@ -10,13 +10,17 @@
 ### 右パネルの設定項目
 - シーン設定
    - シーンタブのシーンモードで ”Scene 3D" を選択します。
+  
     ![](https://eukarya-inc.github.io/reearth-plugin-pedestrian/src/img2.png)
    - 地形タブの、”地形” と ”地形の下を非表示” 両方をONにします。
+  
     ![](https://eukarya-inc.github.io/reearth-plugin-pedestrian/src/img3.png) 
 - プラグインの設定
   - Theme：ウィジェットのテーマカラーをDarkかLightから選択することができます。
   - Backgroung Color：ウィジェットの背景色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
   - Primary Color：Exportボタンの色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
+
+
     ![](https://eukarya-inc.github.io/reearth-plugin-pedestrian/src/img1.png)
 
     (左：ThemeをDark、中央：ThemeをLight、右：BackgroundColorとPrimary Colorを指定)
